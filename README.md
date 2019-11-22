@@ -1,13 +1,14 @@
-# individual-project-julgriff-1
+## individual-project-julgriff-1
 individual-project-julgriff-1 created by GitHub Classroom
-##Corn Maze
---------------------------------------------------------
+
+## Corn Maze
 This repository serves as the main repository for my individual project.
 
-#Goal
-
+### Goal
 Create a fun and challenging way for people with claustrophobia to face their fear.
 
-#Unity Version
-
+### Unity Version
 Unity 2019.2.6f1
+
+### Written Reflection
+For my individual project, I chose to create a corn maze. Aside from the fun and challenging nature of mazes and puzzles in general, I chose to make this corn maze due to the fear inflicted upon me as a child by corn mazes. When I was seven years old, I got lost in a corn maze at the farm where my family goes pumpkin picking each year. I was alone and frightened for only ten minutes, but it felt like hours to me. I had run up ahead of my parents and brother, and next thing I knew I could not find them anywhere. I then realized I could not find my way out either. Eventually I found an employee who was able to help me get out, but the trauma had already set in. As a result of this incident I have lived with claustrophobia ever since. Claustrophobia, like many phobias, impacts the way I live my life every day. From the way I get to class, avoiding all elevators and narrow staircases, to my extreme fear of flying, it is constantly affecting me. I love to be challenged, but I more often than not skip out on different activities due to the claustrophobic nature of them. I wanted to recreate this corn maze so that people who experience claustrophobia could partake in this activity without experiencing the fear. VR is a good medium to achieve this goal due to the nature of the experience. When in the Oculus headset, one can feel as though he or she is actually in a maze and can explore and search for a path in the same way one could in a real corn maze. However, the fact that at any point the user has the ability to exit the maze by removing the Oculus headset allows a claustrophobic user to enjoy the maze with ease. In another sense, by doing different types of activities that allow users to face their fears in VR has been shown to help less the magnitude of the fears. I feel as though if I continue to walk around in the maze I created and even edit the project to try different mazes, that I will have more confidence the next time I am at a corn maze. Virtual Reality is recognized as a medium used for people to face their fears. There are many applications available in Virtual Reality that solely exist for the use of fear interaction for various phobias. Many of these applications have shown to be affective in lessening the magnitude of people's fears. I hoped to create an application of Virtual Reality that could potentially help people face their fear of claustrophobia and make the extent of their fear at least somewhat less than it is. I also wanted to make this fun for users to enjoy even if they do not have claustrophobia, and just wish to enjoy a challenging activity. I did not really have difficulty achieving my goals as there were few limitations of VR that impacted the project.
